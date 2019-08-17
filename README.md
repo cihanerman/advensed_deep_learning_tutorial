@@ -1,2 +1,2 @@
-# advensed_deep_learning_tutorial
-Advensed Deep Learning Tutorial
+# Advensed Deep Learning Tutorial
+Anaconda, spayder, python, keras and pytorch
